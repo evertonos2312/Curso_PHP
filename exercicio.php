@@ -9,12 +9,16 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
-        <h2>Índice dos Exercícios</h2>
+        <h1>Exercício</h1>
+        <h2>Vizualização do Exercício</h2>
     </header>
-    <main class="principal"></main>
+    <main class="principal">
+        <div class="conteudo">
+        
+        </div>
+    </main>
     <footer class="rodape">
-        COD3R & ALUNOS ©
+        COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
