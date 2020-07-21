@@ -91,7 +91,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+        Everton Silva & COD3R © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
