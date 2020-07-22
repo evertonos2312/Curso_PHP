@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="recursos\css\estilo.css">
-    <title>Curso PHP</title>
+    <title>PHP</title>
 
 </head>
 <body>
@@ -35,7 +35,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Everton Silva & COD3R © <?= date('Y'); ?>
+        Everton Silva - <?= date('Y'); ?>
     </footer>
 </body>
 </html>

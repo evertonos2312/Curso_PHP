@@ -26,7 +26,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Everton Silva & COD3R © <?= date('Y'); ?>
+        Everton Silva - <?= date('Y'); ?>
     </footer>
 </body>
 </html>
