@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="recursos\css\estilo.css">
-    <title>PHP</title>
+    <title>Curso PHP</title>
 
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>PHP</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
     <main class="principal">
@@ -29,6 +29,12 @@
                     <h3>Tipos de Dados</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Inteiro</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Float</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Operações Aritméticas</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=def_precedencia">Desafio Precedência</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=string">String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=def_string">Desafio String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=booleano">Booleano</a></li>
                     </ul>
                 </div>
             </nav>
